@@ -11,6 +11,7 @@ Hardware:
   • 2x servo motors
 
 Roles & Responsibilities:
+
   • With the help of OpenCV, the live face recognition will be recorded, and the image will be desired format.
   • The data will send to Arduino ide with the coordinates which handle hardware, pan tilt. Which will recognize and track face.
 
